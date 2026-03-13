@@ -89,22 +89,6 @@ Team:  2 members | Role: Full-stack Developer | Period: 08/2025 – 12/2025
 - Fixed UI bugs, improved responsive layouts, ensured cross-browser compatibility
 - Integrated REST APIs and collaborated via Git/GitFlow in an Agile/Scrum team
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Phuc's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ngophuc29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ngophuc29&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ngophuc29&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
