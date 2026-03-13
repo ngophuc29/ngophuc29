@@ -1,7 +1,6 @@
 # Hi, I'm Phuc 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Front-end+Developer+%F0%9F%87%BB%F0%9F%87%B3;React+%7C+Next.js+%7C+Node.js;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
-
 ---
 
 ## 👨‍💻 About Me
@@ -43,7 +42,7 @@ I'm **Ngo Quang Phuc**, a Front-end Developer based in Ho Chi Minh City, Vietnam
 
 ```
 Stack: ReactJS · React Native · Node.js · Express · Socket.IO · MongoDB
-Team:  2 members | Role: Frontend Developer | Period: 12/2024 – 05/2025
+Role: Frontend Developer | Period: 12/2024 – 05/2025
 ```
 
 - ⚡ Real-time messaging with Socket.IO — low-latency connections
@@ -62,7 +61,7 @@ Team:  2 members | Role: Frontend Developer | Period: 12/2024 – 05/2025
 
 ```
 Stack: Next.js · TypeScript · Tailwind CSS · Shadcn UI · React Query · Axios
-Team:  2 members | Role: Full-stack Developer | Period: 08/2025 – 12/2025
+Role: Full-stack Developer | Period: 08/2025 – 12/2025
 ```
 
 - 🌐 SEO-friendly with Next.js App Router
