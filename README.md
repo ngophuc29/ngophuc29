@@ -6,13 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Ngo Quang Phuc**, a Full-Stack Developer based in Ho Chi Minh City, Vietnam 🇻🇳.  
-I studied Information Technology at Industrial University of HCMC (GPA: 3.2/4) and have been building web applications with a focus on clean architecture, real-time systems, and user-centered design.
-
-I'm comfortable working across the stack — from crafting responsive UIs with React and Next.js to building APIs with Node.js and Express. I enjoy turning ideas into real, working products and am always looking to improve both my technical depth and engineering habits.
-
-Currently leveling up in TypeScript and system design, and open to Junior Frontend or Full-Stack opportunities. 🚀
-
+I'm **Ngo Quang Phuc**, a Front-end Developer based in Ho Chi Minh City, Vietnam 🇻🇳.  
 ---
 
 ## 🛠️ Tech Stack
