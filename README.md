@@ -1,26 +1,17 @@
+# Hi, I'm Phuc 👋
 
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%87%BB%F0%9F%87%B3;React+%7C+Next.js+%7C+Node.js;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ---
 
 ## 👨‍💻 About Me
 
-```javascript
-const ngophuc = {
-  name: "Ngo Quang Phuc",
-  role: "Full-Stack Developer",
-  location: "Ho Chi Minh City 🇻🇳",
-  education: "Industrial University of HCMC — GPA: 3.2/4",
-  contact: {
-    email: "ngophuc2911@gmail.com",
-    phone: "0962447792",
-  },
-  interests: ["Clean Architecture", "Real-time Systems", "UX-Driven UI"],
-  currentlyLearning: ["Advanced TypeScript", "System Design", "DevOps basics"],
-  funFact: "I build chat apps for fun 💬",
-};
-```
+I'm **Ngo Quang Phuc**, a Full-Stack Developer based in Ho Chi Minh City, Vietnam 🇻🇳.  
+I studied Information Technology at Industrial University of HCMC (GPA: 3.2/4) and have been building web applications with a focus on clean architecture, real-time systems, and user-centered design.
+
+I'm comfortable working across the stack — from crafting responsive UIs with React and Next.js to building APIs with Node.js and Express. I enjoy turning ideas into real, working products and am always looking to improve both my technical depth and engineering habits.
+
+Currently leveling up in TypeScript and system design, and open to Junior Frontend or Full-Stack opportunities. 🚀
 
 ---
 
@@ -127,8 +118,6 @@ Team:  2 members | Role: Full-stack Developer | Period: 08/2025 – 12/2025
 ---
 
 <div align="center">
-
-*"Code is like humor. When you have to explain it, it's bad." — Cory House*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ngophuc29&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
 
