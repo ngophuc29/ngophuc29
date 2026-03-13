@@ -1,13 +1,5 @@
 <div align="center">
 
-### `< Full-Stack Developer />` · Ho Chi Minh City, Vietnam 🇻🇳
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications...;React+%7C+Next.js+%7C+Node.js+enthusiast;Turning+Figma+designs+into+reality;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-</div>
-
----
-
 ## 👨‍💻 About Me
 
 ```javascript
