@@ -1,12 +1,4 @@
-# Hi, I'm Phuc 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Front-end+Developer+%F0%9F%87%BB%F0%9F%87%B3;React+%7C+Next.js+%7C+Node.js;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
----
-
-## 👨‍💻 About Me
-
-I'm **Ngo Quang Phuc**, a Front-end Developer based in Ho Chi Minh City, Vietnam 🇻🇳.  
----
+# I'm **Ngo Quang Phuc**, a Front-end Developer based in Ho Chi Minh City, Vietnam 🇻🇳.  👋
 
 ## 🛠️ Tech Stack
 
@@ -32,55 +24,6 @@ I'm **Ngo Quang Phuc**, a Front-end Developer based in Ho Chi Minh City, Vietnam
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 💬 ZaloApp — Real-time Chat Application
-> *A cross-platform messaging app inspired by Zalo*
-
-```
-Stack: ReactJS · React Native · Node.js · Express · Socket.IO · MongoDB
-Role: Frontend Developer | Period: 12/2024 – 05/2025
-```
-
-- ⚡ Real-time messaging with Socket.IO — low-latency connections
-- 📱 Cross-platform: Web + Mobile with consistent UI/UX
-- 🔄 Efficient state management via Context API
-- 🎨 Responsive design across all screen sizes
-
-[![Web](https://img.shields.io/badge/Web_Client-181717?style=for-the-badge&logo=github)](https://github.com/ngophuc29/ZaloApp)
-[![Mobile](https://img.shields.io/badge/Mobile_App-181717?style=for-the-badge&logo=github)](https://github.com/ngophuc29/zalo_mobile)
-[![Backend](https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github)](https://github.com/ngophuc29/sockettuBuild)
-
----
-
-### ✈️ MegaTrip — Travel Booking Platform
-> *All-in-one platform for Flights, Bus Trips & Tour Packages*
-
-```
-Stack: Next.js · TypeScript · Tailwind CSS · Shadcn UI · React Query · Axios
-Role: Full-stack Developer | Period: 08/2025 – 12/2025
-```
-
-- 🌐 SEO-friendly with Next.js App Router
-- 📋 Full booking flows with form validation & error handling
-- 🤖 AI Chatbot integration for customer support
-- 🛠️ Admin Dashboard with CRUD for services, orders, users & CMS
-- 🔐 Axios interceptors for auth & API request handling
-
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/ngophuc29/MegaTrip)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://megatrip.id.vn/)
-
----
-
-## 💼 Experience
-
-**Intern Frontend Developer** @ **Digitech Solutions** *(06/2025 – 09/2025)*
-- Built and maintained React / Next.js web interfaces from product requirements
-- Fixed UI bugs, improved responsive layouts, ensured cross-browser compatibility
-- Integrated REST APIs and collaborated via Git/GitFlow in an Agile/Scrum team
 
 ## 📫 Let's Connect
 
