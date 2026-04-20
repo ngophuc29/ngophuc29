@@ -1,4 +1,4 @@
-# I'm **Ngo Quang Phuc**, a Front-end Developer based in Ho Chi Minh City, Vietnam 🇻🇳.  👋
+# I'm **Ngo Quang Phuc**, a Front-end Developer, Vietnam 🇻🇳.  👋
 
 ## 🛠️ Tech Stack
 
